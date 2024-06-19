@@ -1,3 +1,5 @@
+** WIP / POC **
+
 # Motivation
 
 Manually maintaining a .PYI for your PYO3 project sucks
@@ -61,4 +63,3 @@ pub struct MyClass {
 
 1. Not all types are implemented yet
 2. This does not work well with `--all-features` flags for other cargo commands
-3.
